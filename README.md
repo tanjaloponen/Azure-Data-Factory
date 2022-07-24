@@ -3,7 +3,7 @@ Demonstration of an Azure Data Factory study project
 
 HAMKin IT-tradenomi muuntokoulutuksessa "Tiedon analysointi"-kurssilla tutustuimme Azureen ja tein viikkotehtävänä videolla kuvatun Azure Data Factoryn, jossa käsiteltiin Covid19-dataa (lähde: https://github.com/owid/covid-19-data/tree/master/public/data).
 
-Tässä repossa on tallennettuna Azure Resource Manager template Data Factorystani, sekä video, jolla päällisin puolin esittelen tuotokseni. 
+Tässä repossa on tallennettuna Azure Resource Manager template Data Factorystani, sekä video, jolla päällisin puolin esittelen tuotokseni. Päällisin puolin siksi, että opiskelijatilaukseni creditit ovat loppuneet, eikä kaikkia resursseja pysty enää tarkastelemaan lähemmin.
 
 Kuvaus & toimintaperiaate:
 - Tarvittavat resurssit olivat SQL server, SQL tietokanta, Storage Account sekä itse Data Factory.
